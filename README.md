@@ -16,14 +16,14 @@ predicting `SalePrice`.
 - Tim Benson
 
 ## Repository Structure
-
+```
 project-root/
 ├── data/            # AmesHousing.csv (provided dataset)
 ├── notebooks/       # Jupyter Notebooks
 ├── results/         # output files (charts, regression results, etc.)
 ├── README.md        # project description
 └── requirements.txt # Python dependencies
-
+```
 ## Setup and Requirements
 
 *To be completed as the project progresses*
