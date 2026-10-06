@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This repository contains our team's Week 7 Assigment analysis of the Amex Housing
+This repository contains our team's Week 7 Assignment analysis of the Ames Housing
 dataset. The project includes exploratory data analysis and multiple regression 
 predicting `SalePrice`. 
 
