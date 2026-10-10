@@ -3,8 +3,8 @@
 Dep. Variable:              SalePrice   R-squared:                       0.815
 Model:                            OLS   Adj. R-squared:                  0.815
 Method:                 Least Squares   F-statistic:                     3211.
-Date:                Wed, 07 Oct 2026   Prob (F-statistic):               0.00
-Time:                        21:13:27   Log-Likelihood:                -34641.
+Date:                Sat, 10 Oct 2026   Prob (F-statistic):               0.00
+Time:                        10:22:55   Log-Likelihood:                -34641.
 No. Observations:                2924   AIC:                         6.929e+04
 Df Residuals:                    2919   BIC:                         6.932e+04
 Df Model:                           4                                         
